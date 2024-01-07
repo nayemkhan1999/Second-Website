@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Google Font Work Sans Style link Starts  */
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+/* Header Section Style Starts Hare */
+header {
+  background-image: url("../images/banner/banner3.png");
+  background-position: center;
+  width: 1343px;
+  height: 743px;
+  background-size: cover;
+  background-color: #fff8f3;
+  background-repeat: no-repeat;
+  margin: 0px 0px;
+}
+
+.header-text {
+  padding: 216px 72px 14px 845px;
+  color: #fff;
+  text-align: right;
+  font-size: 55px;
+  font-weight: 700;
+  /* width: 525px; */
+}
+
+.header-description {
+  padding: 10px 65px 0px 876px;
+  color: #fff;
+  text-align: right;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.btn-primary {
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  border: none;
+  background: #fff;
+  color: #005fac;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 32px 60px 100px 1120px;
+}
+/* Header Section Style Ends Hare */
+
+/* Main Section Style Starts Hare */
+.main-container {
+  border-radius: 10px;
+  background: #aaa;
+  padding: 100px 80px;
+  margin: 130px 80px;
+  width: 1230px;
+  height: 850px;
+}
+
+.main-column1 {
+  position: absolute;
+  top: 840px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 630px;
+}
+
+.header-text2 {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 350px 200px 50px 5px;
+  /* gap: 24px; */
+  margin-bottom: 10px;
+}
+
+.header-description2 {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 14px;
+  width: 416px;
+}
+
+.list-item {
+  margin-top: 16px;
+  /* margin-left: 5px; */
+}
+
+li {
+  color: #444343;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  list-style: none;
+}
+/* Main Column 2 Position */
+.main-column2 {
+  position: absolute;
+  top: 948px;
+  margin-right: 762px;
+}
+
+/* Main Section1 */
+
+.main-section1 {
+}
+
+.header-text3 {
+  color: #151414;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.logo-item {
+  text-align: center;
+  margin: 53px auto;
+  padding: 0px 100px;
+}
